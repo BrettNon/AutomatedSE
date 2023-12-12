@@ -1,5 +1,7 @@
 # AutomatedSE
 
+Brett Noneman - brettn
+
 # Software Engineering with ChatGPT: A Review
 
 ## Pros
